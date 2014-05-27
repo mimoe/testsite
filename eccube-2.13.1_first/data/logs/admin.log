@@ -1,0 +1,5 @@
+2014/05/27 22:46:57 [/eccube-2.13.1_first/html/testsite/index.php] access error. from ::1
+2014/05/27 22:46:57 [/eccube-2.13.1_first/html/testsite/index.php] login: user=testsite(2) auth=0 lastlogin= sid= from ::1
+2014/05/27 22:46:57 [/eccube-2.13.1_first/html/testsite/home.php] access : user=testsite auth=0 sid=239745ce87fb8ff4cc08c953d95a28cc from ::1
+2014/05/27 22:47:47 [/eccube-2.13.1_first/html/testsite/basis/index.php] access : user=testsite auth=0 sid=239745ce87fb8ff4cc08c953d95a28cc from ::1
+2014/05/27 22:52:27 [/eccube-2.13.1_first/html/testsite/design/index.php] access : user=testsite auth=0 sid=239745ce87fb8ff4cc08c953d95a28cc from ::1
